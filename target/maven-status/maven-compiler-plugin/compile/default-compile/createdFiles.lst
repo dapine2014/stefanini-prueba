@@ -1,0 +1,9 @@
+servico/rest/com/co/domain/ClientEntity$ClientEntityBuilder.class
+servico/rest/com/co/infraestructure/controller/ClienteController.class
+servico/rest/com/co/ServicioApplication.class
+servico/rest/com/co/infraestructure/out/service/IClientService.class
+servico/rest/com/co/infraestructure/exception/GlobalExceptionHandler.class
+servico/rest/com/co/application/usecase/ReadClientUseCase.class
+servico/rest/com/co/domain/ClientEntity.class
+servico/rest/com/co/application/dto/ClienteDto.class
+servico/rest/com/co/infraestructure/out/Repository/ClientRepository.class

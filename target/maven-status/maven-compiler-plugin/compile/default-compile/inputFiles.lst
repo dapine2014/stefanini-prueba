@@ -1,0 +1,8 @@
+/home/alex/Documentos/historyclinic/servicio/src/main/java/servico/rest/com/co/ServicioApplication.java
+/home/alex/Documentos/historyclinic/servicio/src/main/java/servico/rest/com/co/application/dto/ClienteDto.java
+/home/alex/Documentos/historyclinic/servicio/src/main/java/servico/rest/com/co/application/usecase/ReadClientUseCase.java
+/home/alex/Documentos/historyclinic/servicio/src/main/java/servico/rest/com/co/domain/ClientEntity.java
+/home/alex/Documentos/historyclinic/servicio/src/main/java/servico/rest/com/co/infraestructure/controller/ClienteController.java
+/home/alex/Documentos/historyclinic/servicio/src/main/java/servico/rest/com/co/infraestructure/exception/GlobalExceptionHandler.java
+/home/alex/Documentos/historyclinic/servicio/src/main/java/servico/rest/com/co/infraestructure/out/Repository/ClientRepository.java
+/home/alex/Documentos/historyclinic/servicio/src/main/java/servico/rest/com/co/infraestructure/out/service/IClientService.java

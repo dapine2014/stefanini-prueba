@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: servico.rest.com.co.ServicioApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.192 s -- in servico.rest.com.co.ServicioApplicationTests
