@@ -16,8 +16,6 @@ public class ReadClientUseCase implements IClientService {
     @Override
     public ClienteDto readCliente() {
           ModelMapper modelMapper = new ModelMapper();
-          ClienteDto clienteDto  =  modelMapper.map(clientRepository.getAllClients(), ClienteDto.class);
-
-          return clienteDto;
+        return modelMapper.map(clientRepository.getAllClients(), ClienteDto.class);
     }
 }
